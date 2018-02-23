@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apingsiv2_test" />
+        <module name="ngsi2-client" />
+        <module name="ngsi2-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api_ngsiv2_test" target="1.8" />
+      <module name="apingsiv2_test" target="1.5" />
+      <module name="ngsi2-api" target="1.8" />
+      <module name="ngsi2-client" target="1.8" />
+      <module name="ngsi2-server" target="1.8" />
+      <module name="ngsiv2_library" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fiware-ngsi-v2-smartspot.iml" filepath="$PROJECT_DIR$/fiware-ngsi-v2-smartspot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ngsiv2_library/ngsi2-client/ngsi2-client.iml" filepath="$PROJECT_DIR$/ngsiv2_library/ngsi2-client/ngsi2-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ngsiv2_library/ngsi2-server/ngsi2-server.iml" filepath="$PROJECT_DIR$/ngsiv2_library/ngsi2-server/ngsi2-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ngsiv2_library/ngsiv2_library.iml" filepath="$PROJECT_DIR$/ngsiv2_library/ngsiv2_library.iml" />
+    </modules>
+  </component>
+</project>
